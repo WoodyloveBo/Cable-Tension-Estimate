@@ -60,3 +60,19 @@ This project aims to estimate the cable tension acting on a quadrotor by constru
 |-------------|--------|----------|--------|----------|
 | 10          | 1.23   | 1.21     | 1.18   | 1.20     |
 
+## 2. Cable Test
+
+### 2.1 - Single Crazyflie Test
+
+#### 2.1.1 - Crazyflie Hover Test (Cable)
+
+| Payload (g) | CF1 UP | CF1 DOWN | CF4 UP | CF4 DOWN |
+|-------------|--------|----------|--------|----------|
+| 10          | 1.23   | 1.21     | 1.18   | 1.20     |
+
+#### 2.1.2 - Crazyflie Updown Test (Cable)
+
+| Payload (g) | CF1 UP | CF1 DOWN | CF4 UP | CF4 DOWN |
+|-------------|--------|----------|--------|----------|
+| 10          | 1.23   | 1.21     | 1.18   | 1.20     |
+
