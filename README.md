@@ -8,7 +8,7 @@ This project aims to estimate the cable tension acting on a quadrotor by constru
 - Platform : Crazyflie 2.1 nano quadrotor + Thrust Upgrade Bundle
 
 
-
+---
 
 
 
