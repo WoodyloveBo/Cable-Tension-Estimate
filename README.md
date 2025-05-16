@@ -75,16 +75,16 @@ This project aims to estimate the cable tension acting on a quadrotor by constru
 | Payload (g) | Task Completion flag |
 |-------------|----------| Test Date |
 | 9           | O     | 2025.04.21 |
-| 10          | O     | 
-| 11          | O     | 
-| 12          | O     | 
-| 13          | O     | 
-| 14          | O     | 
-| 15          | O     | 
-| 16          | O     | 
-| 17          | O     | 
-| 18          | O     | 
-| 19          | O     | 
+| 10          | O     | - |
+| 11          | O     | - |
+| 12          | O     | - |
+| 13          | O     | - |
+| 14          | O     | - |
+| 15          | O     | - |
+| 16          | O     | - |
+| 17          | O     | - |
+| 18          | O     | - |
+| 19          | O     | - |
 
 ### 1.2 - 2 Crazyflie Test
 
