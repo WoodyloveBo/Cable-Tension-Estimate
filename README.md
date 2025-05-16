@@ -24,9 +24,18 @@ This project aims to estimate the cable tension acting on a quadrotor by constru
 
 #### 1.1.1 - Crazyflie Hover Test (Spring)
 
-| Payload (g) | CF1 UP | CF1 DOWN | CF4 UP | CF4 DOWN |
-|-------------|--------|----------|--------|----------|
-| 10          | 1.23   | 1.21     | 1.18   | 1.20     |
+| Payload (g) | Hover | Task Completion flag |
+|-------------|--------|----------|
+| 10          | 1.23   | 1.21     | 
+| 11          | 1.23   | 1.21     | 
+| 12          | 1.23   | 1.21     | 
+| 13          | 1.23   | 1.21     | 
+| 14          | 1.23   | 1.21     | 
+| 15          | 1.23   | 1.21     | 
+| 16          | 1.23   | 1.21     | 
+| 17          | 1.23   | 1.21     | 
+| 18          | 1.23   | 1.21     | 
+| 19          | 1.23   | 1.21     | 
 
 #### 1.1.2 - Crazyflie Sqaure Test (Spring)
 
