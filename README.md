@@ -7,7 +7,12 @@ This project aims to estimate the cable tension acting on a quadrotor by constru
 ### System Architecture
 - Platform : Crazyflie 2.1 nano quadrotor + Thrust Upgrade Bundle
 
+<<<<<<< HEAD
 # Cable Tension Estimate Experiment Data
+=======
+
+---
+>>>>>>> Deleted old bag/text files, added Spring_Test directory
 
 ## 1. Spring Test
 
@@ -46,10 +51,80 @@ This project aims to estimate the cable tension acting on a quadrotor by constru
 
 #### 1.1.4 - Crazyflie Updown Test (Spring)
 
+<<<<<<< HEAD
 | Payload (g) | Task Completion flag | Test Date |
 |-------------|----------------------|------------|
 | 9           | O                    | 2025.05.04 |
 ...
+=======
+## 1. Spring Test
+
+### 1.1 - Single Crazyflie Test
+
+#### 1.1.1 - Crazyflie Hover Test (Spring)
+
+| Payload (g) | Task Completion flag |
+|-------------|----------|
+| 9           | O     | 
+| 10          | O     | 
+| 11          | O     | 
+| 12          | O     | 
+| 13          | O     | 
+| 14          | O     | 
+| 15          | O     | 
+| 16          | O     | 
+| 17          | O     | 
+| 18          | O     | 
+| 19          | O     | 
+
+#### 1.1.2 - Crazyflie Sqaure Test (Spring)
+
+| Payload (g) | Task Completion flag | Test Date |
+|-------------|----------|----------|
+| 9           | O     | 2025.04.21 |
+| 10          | O     | - |
+| 11          | O     | - |
+| 12          | O     | - |
+| 13          | O     | - |
+| 14          | O     | - |
+| 15          | O     | - |
+| 16          | O     | - |
+| 17          | O     | - |
+| 18          | O     | - |
+| 19          | O     | - |
+
+#### 1.1.3 - Crazyflie Circle Test (Spring)
+
+| Payload (g) | Task Completion flag | Test Date |
+|-------------|----------|----------|
+| 9           | O     | 2025.04.21 |
+| 10          | O     | - |
+| 11          | O     | - |
+| 12          | O     | - |
+| 13          | O     | - |
+| 14          | O     | - |
+| 15          | O     | - |
+| 16          | O     | - |
+| 17          | O     | - |
+| 18          | O     | - |
+| 19          | O     | - |
+
+#### 1.1.4 - Crazyflie Updown Test (Spring) 
+
+| Payload (g) | Task Completion flag | Test Date |
+|-------------|----------|----------|
+| 9           | O     | 2025.05.04 |
+| 10          | O     | - |
+| 11          | O     | - |
+| 12          | O     | - |
+| 13          | O     | - |
+| 14          | O     | - |
+| 15          | O     | - |
+| 16          | O     | - |
+| 17          | O     | - |
+| 18          | O     | - |
+| 19          | O     | - |
+>>>>>>> Deleted old bag/text files, added Spring_Test directory
 
 ### 1.2 - 2 Crazyflie Test
 
