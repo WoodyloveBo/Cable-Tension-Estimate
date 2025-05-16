@@ -72,9 +72,9 @@ This project aims to estimate the cable tension acting on a quadrotor by constru
 
 #### 1.1.4 - Crazyflie Updown Test (Spring) 
 
-| Payload (g) | Task Completion flag |
-|-------------|----------| Test Date |
-| 9           | O     | 2025.04.21 |
+| Payload (g) | Task Completion flag | Test Date |
+|-------------|----------|----------|
+| 9           | O     | - |
 | 10          | O     | - |
 | 11          | O     | - |
 | 12          | O     | - |
