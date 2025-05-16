@@ -74,7 +74,7 @@ This project aims to estimate the cable tension acting on a quadrotor by constru
 
 | Payload (g) | Task Completion flag | Test Date |
 |-------------|----------|----------|
-| 9           | O     | 2025.04.21 |
+| 9           | O     | 2025.05.04 |
 | 10          | O     | - |
 | 11          | O     | - |
 | 12          | O     | - |
