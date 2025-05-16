@@ -56,19 +56,19 @@ This project aims to estimate the cable tension acting on a quadrotor by constru
 
 #### 1.1.3 - Crazyflie Circle Test (Spring)
 
-| Payload (g) | Task Completion flag |
-|-------------|----------|
-| 9           | O     | 
-| 10          | O     | 
-| 11          | O     | 
-| 12          | O     | 
-| 13          | O     | 
-| 14          | O     | 
-| 15          | O     |
-| 16          | O     |
-| 17          | O     |
-| 18          | O     |
-| 19          | O     |
+| Payload (g) | Task Completion flag | Test Date |
+|-------------|----------|----------|
+| 9           | O     | 2025.04.21 |
+| 10          | O     | - |
+| 11          | O     | - |
+| 12          | O     | - |
+| 13          | O     | - |
+| 14          | O     | - |
+| 15          | O     | - |
+| 16          | O     | - |
+| 17          | O     | - |
+| 18          | O     | - |
+| 19          | O     | - |
 
 #### 1.1.4 - Crazyflie Updown Test (Spring) 
 
