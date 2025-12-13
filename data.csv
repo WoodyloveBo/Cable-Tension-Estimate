@@ -1,0 +1,148 @@
+26g
+Circle
+
+Test2 
+cf1: RMSE_x=0.992, RMSE_y=1.299, RMSE_z=0.495, RMSE_norm=0.384
+cf2: RMSE_x=1.401, RMSE_y=0.505, RMSE_z=0.626, RMSE_norm=1.006
+Test3
+cf1: RMSE_x=1.023, RMSE_y=1.268, RMSE_z=0.633, RMSE_norm=0.719
+cf2: RMSE_x=1.375, RMSE_y=0.453, RMSE_z=1.019, RMSE_norm=1.349
+Test5
+cf1: RMSE_x=0.341, RMSE_y=1.237, RMSE_z=0.563, RMSE_norm=0.468
+cf2: RMSE_x=1.449, RMSE_y=1.224, RMSE_z=1.505, RMSE_norm=0.935
+Test6
+cf1: RMSE_x=0.331, RMSE_y=1.222, RMSE_z=0.825, RMSE_norm=0.704
+cf2: RMSE_x=1.564, RMSE_y=1.271, RMSE_z=0.594, RMSE_norm=0.275
+
+Hover
+
+Test2
+cf1: RMSE_x=1.131, RMSE_y=1.003, RMSE_z=0.266, RMSE_norm=0.491
+cf2: RMSE_x=1.158, RMSE_y=0.837, RMSE_z=0.617, RMSE_norm=0.868
+Test3
+cf1: RMSE_x=0.917, RMSE_y=1.070, RMSE_z=0.604, RMSE_norm=0.467
+cf2: RMSE_x=1.280, RMSE_y=0.349, RMSE_z=0.668, RMSE_norm=0.973
+Test5
+cf1: RMSE_x=0.417, RMSE_y=0.914, RMSE_z=0.230, RMSE_norm=0.289
+cf2: RMSE_x=1.451, RMSE_y=1.105, RMSE_z=1.236, RMSE_norm=0.738
+Test6
+cf1: RMSE_x=0.370, RMSE_y=1.010, RMSE_z=0.344, RMSE_norm=0.292
+cf2: RMSE_x=1.512, RMSE_y=1.158, RMSE_z=0.746, RMSE_norm=0.308
+
+Updown
+Test1 - Up
+cf1: RMSE_x=0.457, RMSE_y=0.960, RMSE_z=0.550, RMSE_norm=0.581
+cf2: RMSE_x=1.680, RMSE_y=0.820, RMSE_z=1.304, RMSE_norm=1.719
+Test1 - Down
+cf1: RMSE_x=0.488, RMSE_y=1.148, RMSE_z=0.567, RMSE_norm=0.557
+cf2: RMSE_x=1.776, RMSE_y=0.921, RMSE_z=1.099, RMSE_norm=1.580
+
+Test2 - Up
+  cf1: RMSE_x=0.412, RMSE_y=1.053, RMSE_z=0.809, RMSE_norm=0.815
+  cf2: RMSE_x=1.707, RMSE_y=1.030, RMSE_z=1.131, RMSE_norm=1.596
+Test2 - Down
+  cf1: RMSE_x=0.475, RMSE_y=1.063, RMSE_z=0.726, RMSE_norm=0.711
+  cf2: RMSE_x=1.724, RMSE_y=1.010, RMSE_z=0.899, RMSE_norm=1.318
+
+Test3 - Up
+cf1: RMSE_x=0.546, RMSE_y=1.084, RMSE_z=0.569, RMSE_norm=0.607
+cf2: RMSE_x=1.608, RMSE_y=0.654, RMSE_z=1.504, RMSE_norm=1.911
+Test3- Down
+cf1: RMSE_x=0.581, RMSE_y=1.130, RMSE_z=1.040, RMSE_norm=1.082
+cf2: RMSE_x=1.770, RMSE_y=0.916, RMSE_z=1.437, RMSE_norm=1.874
+
+28g 
+Circle
+Test1 
+cf1: RMSE_x=1.156, RMSE_y=0.666, RMSE_z=1.049, RMSE_norm=0.740
+cf2: RMSE_x=1.455, RMSE_y=1.176, RMSE_z=0.778, RMSE_norm=0.312
+Test2 
+ cf1: RMSE_x=1.098, RMSE_y=0.593, RMSE_z=1.194, RMSE_norm=0.895
+  cf2: RMSE_x=1.397, RMSE_y=1.137, RMSE_z=0.774, RMSE_norm=0.419
+Test3
+  cf1: RMSE_x=1.107, RMSE_y=0.620, RMSE_z=1.567, RMSE_norm=1.171
+  cf2: RMSE_x=1.437, RMSE_y=0.994, RMSE_z=1.399, RMSE_norm=0.840
+
+Hover
+Test1
+  cf1: RMSE_x=1.034, RMSE_y=0.509, RMSE_z=1.466, RMSE_norm=1.087
+  cf2: RMSE_x=1.470, RMSE_y=0.968, RMSE_z=0.500, RMSE_norm=0.177
+Test2
+  cf1: RMSE_x=1.245, RMSE_y=0.352, RMSE_z=1.409, RMSE_norm=0.986
+  cf2: RMSE_x=1.333, RMSE_y=0.945, RMSE_z=0.600, RMSE_norm=0.275
+Test3 
+  cf1: RMSE_x=0.931, RMSE_y=0.298, RMSE_z=1.448, RMSE_norm=1.115
+  cf2: RMSE_x=1.242, RMSE_y=0.950, RMSE_z=2.244, RMSE_norm=1.679
+
+Updown
+
+Test1 Up
+cf1: RMSE_x=0.718, RMSE_y=1.116, RMSE_z=0.626, RMSE_norm=0.613
+cf2: RMSE_x=1.542, RMSE_y=1.253, RMSE_z=1.048, RMSE_norm=1.403
+Test1 Down
+cf1: RMSE_x=0.788, RMSE_y=1.226, RMSE_z=0.737, RMSE_norm=0.607
+cf2: RMSE_x=1.595, RMSE_y=1.115, RMSE_z=0.688, RMSE_norm=0.907
+
+Test2 Up
+cf1: RMSE_x=0.747, RMSE_y=0.871, RMSE_z=0.789, RMSE_norm=0.705
+cf2: RMSE_x=1.426, RMSE_y=1.356, RMSE_z=0.803, RMSE_norm=1.106
+Test2 Down
+cf1: RMSE_x=0.722, RMSE_y=0.970, RMSE_z=1.042, RMSE_norm=1.047
+cf2: RMSE_x=1.560, RMSE_y=1.181, RMSE_z=0.657, RMSE_norm=0.528
+
+Test4 Up
+
+cf1: RMSE_x=0.664, RMSE_y=1.285, RMSE_z=0.571, RMSE_norm=0.538
+cf2: RMSE_x=1.379, RMSE_y=1.094, RMSE_z=0.668, RMSE_norm=0.891
+Down
+cf1: RMSE_x=0.795, RMSE_y=1.246, RMSE_z=0.804, RMSE_norm=0.712
+cf2: RMSE_x=1.505, RMSE_y=1.126, RMSE_z=0.645, RMSE_norm=0.569
+
+30g 
+Circle
+Test1
+cf1: RMSE_x=1.034, RMSE_y=1.305, RMSE_z=0.584, RMSE_norm=0.768
+cf2: RMSE_x=1.450, RMSE_y=2.250, RMSE_z=0.911, RMSE_norm=0.519
+Test2
+cf1: RMSE_x=0.990, RMSE_y=1.033, RMSE_z=0.989, RMSE_norm=0.687
+cf2: RMSE_x=1.360, RMSE_y=2.174, RMSE_z=0.600, RMSE_norm=0.283
+Test3
+cf1: RMSE_x=1.029, RMSE_y=1.108, RMSE_z=1.301, RMSE_norm=1.302
+cf2: RMSE_x=1.387, RMSE_y=2.149, RMSE_z=0.959, RMSE_norm=0.506
+
+Hover
+Test1
+cf1: RMSE_x=0.891, RMSE_y=0.989, RMSE_z=0.546, RMSE_norm=0.559
+cf2: RMSE_x=1.571, RMSE_y=2.142, RMSE_z=0.292, RMSE_norm=0.388
+Test2
+cf1: RMSE_x=0.936, RMSE_y=0.916, RMSE_z=0.954, RMSE_norm=0.691
+cf2: RMSE_x=1.422, RMSE_y=1.826, RMSE_z=0.261, RMSE_norm=0.591
+Test3
+cf1: RMSE_x=0.825, RMSE_y=0.952, RMSE_z=1.309, RMSE_norm=1.020
+cf2: RMSE_x=1.469, RMSE_y=2.083, RMSE_z=0.707, RMSE_norm=0.371
+
+Updown
+
+Test1
+Up
+  cf1: RMSE_x=0.844, RMSE_y=0.694, RMSE_z=1.312, RMSE_norm=1.015
+  cf2: RMSE_x=1.446, RMSE_y=1.272, RMSE_z=0.756, RMSE_norm=0.778
+Down
+  cf1: RMSE_x=0.944, RMSE_y=0.792, RMSE_z=2.030, RMSE_norm=1.610
+  cf2: RMSE_x=1.452, RMSE_y=1.346, RMSE_z=1.158, RMSE_norm=0.809
+
+Test2
+Up
+  cf1: RMSE_x=0.805, RMSE_y=0.615, RMSE_z=1.552, RMSE_norm=1.246
+  cf2: RMSE_x=1.373, RMSE_y=1.377, RMSE_z=0.976, RMSE_norm=0.765
+Down
+  cf1: RMSE_x=0.978, RMSE_y=0.851, RMSE_z=1.413, RMSE_norm=1.206
+  cf2: RMSE_x=1.422, RMSE_y=1.457, RMSE_z=1.305, RMSE_norm=0.913
+
+Test3
+Up
+  cf1: RMSE_x=0.819, RMSE_y=0.677, RMSE_z=1.018, RMSE_norm=0.777
+  cf2: RMSE_x=1.374, RMSE_y=1.092, RMSE_z=1.082, RMSE_norm=0.771
+Down
+  cf1: RMSE_x=0.929, RMSE_y=0.487, RMSE_z=2.346, RMSE_norm=1.939
+  cf2: RMSE_x=1.304, RMSE_y=1.559, RMSE_z=1.342, RMSE_norm=0.935
