@@ -45,18 +45,14 @@ Experiment content : Hovering, Updown, Circle Test
 
 ### Spring Tension Estimation.
 
-
-아래 내용은 README.md의 #### Processing Pipeline 섹션에 그대로 복사-붙여넣기 가능한 형식으로 작성했습니다.
-앞에서 정리한 Spring Tension Estimation 절차와 정확히 대응되도록 구성했습니다.
-
-#### Processing Pipeline
-
 1. A payload of 20–30 g is suspended using springs from a dual-multicopter system, and flight experiments are conducted under hovering, circular, and ascending–descending maneuvers. Each experiment is repeated three times.
 2. During flight, the Crazyflie positions, payload position, thrust (\(f_t\)), and spring tension (\(f_s\)) are recorded into ROS bag files using:
    - `rosbag record -a`
 3. The recorded data are processed to compute the predicted spring tension and the measured spring tension using the following pipeline:
    - `point_index.py -> spring.py -> timestamp.py -> Circle_RMSE.py or Hover_RMSE.py or Updown_RMSE.py`
 4. The estimation performance is evaluated by recording the RMSE, RMSE norm, and normalized RMSE.
+
+#### Processing Pipeline
 
 #### `point_index.py`  
 - Identifies the payload as a point mass from the motion-capture data and extracts its position as a single reference point.  
